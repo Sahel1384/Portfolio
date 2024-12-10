@@ -53,7 +53,7 @@ function Chatbot() {
               type="text"
               className="w-[100%] xl:w-96 h-8 lg:h-10 rounded-xl bg-[#e2f8ff]"
             />
-            <button className="bg-[#0961b0] absolute right-[100px] text-white px-5 py-1 lg:py-2 rounded-2xl">
+            <button className="bg-[#0961b0] absolute right-[0px] xl:right-[100px] text-white px-5 py-1 lg:py-2 rounded-2xl">
               Send
             </button>
           </div>
