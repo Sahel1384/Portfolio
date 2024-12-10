@@ -13,10 +13,10 @@ function Projects() {
         <h1 className="text-3xl sm:text-4xl font-bold">Completed Projects</h1>
       </div>
 
-      <div className="flex justify-center flex-col md:flex-row items-center gap-3 w-full">
+      <div className="flex flex-col md:flex-row items-center justify-center gap-3 w-full">
         <img
           src={pro1}
-          className="rounded-[20px] sm:rounded-[30px] lg:rounded-[50px] w-[100%] md:w-[30%] h-[370px] xl:h-[380px]"
+          className="rounded-[20px] sm:rounded-[30px] lg:rounded-[50px] w-[100%] md:w-[30%] lg:w-[29%] xl:w-[30%] 2xl:w-[90%] h-[370px] xl:h-[380px]"
           alt=""
         />
         <div className="w-[100%] md:w-[70%] gap-3 grid grid-cols-1">
