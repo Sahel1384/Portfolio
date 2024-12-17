@@ -1,5 +1,5 @@
-import still from "../../assets/img/still-f1c0df70f1c15486b88334c0bda65b61.webp";
-import original1 from "../../assets/img/original-994b90227e9636e8838a149d9b66b320.webp";
+import still from "../../assets/img/ex1.jpg";
+import original1 from "../../assets/img/ex2.jpg";
 import original2 from "../../assets/img/original-d69aecb883757065752b55e8e7ad2b95.webp";
 export const ExperienceData = [
   {

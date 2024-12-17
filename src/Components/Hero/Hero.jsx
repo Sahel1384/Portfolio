@@ -1,6 +1,6 @@
 import github from "../../assets/img/github.svg";
 import linkedin from "../../assets/img/linkedin-161-svgrepo-com.svg";
-import hero from "../../assets/img/672a68a74bdcc402196979.jpg";
+import hero from "../../assets/img/hero1.jpg";
 import html from "../../assets/img/html-svgrepo-com.svg";
 import css from "../../assets/img/css-3-svgrepo-com.svg";
 import js from "../../assets/img/js-svgrepo-com.svg";

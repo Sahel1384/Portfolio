@@ -12,11 +12,11 @@ function Experience() {
         {ExperienceData.map((data) => (
           <div
             key={data.id}
-            className="p-2 lg:p-5 bg-[#fffbe6] rounded-2xl flex flex-col gap-2"
+            className="p-2 lg:p-5 bg-[#fffbe6] rounded-2xl flex flex-col gap-4"
           >
             <img
               src={data.img}
-              className="rounded-2xl w-full h-[280px] md:h-auto"
+              className="rounded-2xl w-full h-[280px] md:h-[230px]"
               alt=""
             />
 
